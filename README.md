@@ -12,10 +12,13 @@ I am going on the SDC nanodegree. This repository is a collection of projects.
 	* Image classification using convolutional neural networks
 3. [Behavioral Cloning](3_clone/)
 	* Clone driving behavior using deep neural networks and convolutional neural networks.
+	* ![image](clone.gif)
 4. [Advanced Lane Finding](4_lane_detect/)
 	* Pipeline to identify the lane boundaries in a video from a front-facing camera on a car.
+	* ![image](lane_detect.gif)
 5. [Vehicle Detection and Tracking](5_vehicle_detect/)
 	* Pipeline to identify vehicles in a video from a front-facing camera on a car. 
+	* ![image](vehicle_detect.gif)
 	
 ## Sensor Fusion, Localization, and Controll - Term 2
 
