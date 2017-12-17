@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/net/model.py=utf-8
+encoding//src/net/single_shot_model.py=utf-8
+encoding//src/net/tiny_model.py=utf-8
+encoding//src/utils.py=utf-8
+encoding/0_data_explore.py=utf-8
+encoding/1_batch_norm.py=utf-8
+encoding/2_train_from_saved_parameter.py=utf-8
+encoding/<project>=UTF-8
