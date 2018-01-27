@@ -28,6 +28,13 @@ I am going on the SDC nanodegree. This repository is a collection of projects.
 	* Unscented Kalman Filter to estimate the state of a moving object of interest with noisy lidar and radar measurements.
 8. [Kidnapped Vehicle](8_particle/)
 	* Localization algorithm using particle filter
+9. [PID controller](https://github.com/penny4860/CarND-PID-Control-Project)
+	* PID controller that determines tuning coefficient by twiddle algorithm.
+	* ![image](pid.gif)
+10. [Model Predictive Controller](https://github.com/penny4860/CarND-MPC)
+	* Model Predictive controller algorithm
+
+
 
 ## Path Planning, Concentrations, and Systems - Term 3
 
